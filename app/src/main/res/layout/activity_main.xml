@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edt_shape_1"
-        android:text="Edit me !"
+        android:text="Edit me 1 !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
 
@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edt_shape_2"
-        android:text="Edit me !"
+        android:text="Edit me 2 !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
 
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edt_shape_3"
-        android:text="Edit me !"
+        android:text="Edit me 3 !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
 
@@ -34,7 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edt_shape_4"
-        android:text="Edit me !"
+        android:text="Edit me 4 !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
 
@@ -42,7 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edt_shape_5"
-        android:text="Edit me !"
+        android:text="Edit me 5 !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
 
@@ -50,7 +50,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edt_shape_6"
-        android:text="Edit me !"
+        android:text="Edit me 6 !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
 
@@ -69,4 +69,15 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="cs2guru.com"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_shape2"
+        android:text="Button2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_shape3"
+        android:text="Button3" />
 </LinearLayout>
