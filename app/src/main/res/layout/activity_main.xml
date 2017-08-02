@@ -37,4 +37,32 @@
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_5"
+        android:text="Edit me !"
+        android:textColor="#000"
+        android:textCursorDrawable="@null" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_6"
+        android:text="Edit me !"
+        android:textColor="#000"
+        android:textCursorDrawable="@null" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_2"
+        android:text="Button" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_2"
+        android:text="TextView" />
 </LinearLayout>
