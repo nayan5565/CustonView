@@ -9,7 +9,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_1"
+        android:background="@drawable/edt_shape_1"
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
@@ -17,7 +17,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_2"
+        android:background="@drawable/edt_shape_2"
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
@@ -25,7 +25,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_3"
+        android:background="@drawable/edt_shape_3"
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
@@ -33,7 +33,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_4"
+        android:background="@drawable/edt_shape_4"
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
@@ -41,7 +41,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_5"
+        android:background="@drawable/edt_shape_5"
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
@@ -49,7 +49,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_6"
+        android:background="@drawable/edt_shape_6"
         android:text="Edit me !"
         android:textColor="#000"
         android:textCursorDrawable="@null" />
@@ -57,13 +57,13 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_2"
+        android:background="@drawable/edt_shape_2"
         android:text="Button" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_2"
+        android:background="@drawable/edt_shape_2"
         android:text="TextView" />
     <com.nayan.customviewactivity.MyEditText
         android:layout_width="fill_parent"

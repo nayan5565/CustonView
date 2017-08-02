@@ -57,7 +57,7 @@ public class MyEditText  extends EditText {
     public BitmapDrawable writeOnDrawable(String text) {
 
         //get xml drawable
-        Drawable drawable = getResources().getDrawable(R.drawable.rounded_rectange);
+        Drawable drawable = getResources().getDrawable(R.drawable.edt_rounded_rectange);
 
         //calculate width of label text icon **base on pure assumptions
         //nothing fancy just taken padding of 60 and assumed width of each text letter to be 22
