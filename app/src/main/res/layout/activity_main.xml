@@ -65,4 +65,8 @@
         android:layout_height="wrap_content"
         android:background="@drawable/shape_2"
         android:text="TextView" />
+    <com.nayan.customviewactivity.MyEditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="cs2guru.com"/>
 </LinearLayout>
