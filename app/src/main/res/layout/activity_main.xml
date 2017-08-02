@@ -57,7 +57,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/edt_shape_2"
+        android:background="@drawable/btn_shape1"
         android:text="Button" />
 
     <TextView
